@@ -42,8 +42,6 @@ class TuringAlgo:
             '([\S]+)_RB.?_[A-Z-]+ ([\S]+)_VB.?_[A-Z-]+'
         ]
 
-    #############################################################################
-    # TODO TODO TODO TODO TODO
     def classify(self, example):
         """ TODO
           'words' is a list of words to classify. Return 'pos' or 'neg' classification.
@@ -141,8 +139,6 @@ class TuringAlgo:
 
 
 
-    # END TODO (Modify code beyond here with caution)
-    #############################################################################
 
 
     def readFile(self, fileName):
